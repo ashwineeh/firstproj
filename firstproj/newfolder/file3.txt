@@ -1,3 +1,1 @@
-file1
-
 new branch changes. Adding a file and updating another one.
